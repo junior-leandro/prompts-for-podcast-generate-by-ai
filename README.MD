@@ -1,23 +1,27 @@
+<h1 align="center">Coder's Quest - A Saga Front-End</h1>
 <p align="center">
-<img 
-    src="./assets/robot.jpg"
-    width="500"
-/>
-
-
-<h2 align="center">
-    Preview do Podcast
-</h2>
-
-<div align="center">
-    <audio src="./assets/output/Ep01-Hello-World.MP3" controls title="Podcast"></audio>
-</div>
+    <img src="./assets/robot.jpg" width="500"/>
+</p>
 
 # Projeto Podcast Gerado com Auxilio de Inteligências Artificiais
 
 Projeto proposto no curso de "ChatGPT for Dev's" da DIO, com o objetivo de gerar um podcast utilizando ferramentas de A.I. através de prompts mais trabalhados para obter melhores respostas.
-
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+
+
+<h2 align="center">Preview do Podcast</h2>
+
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=69jCm9sb3Aw" title="Preview do Conteúdo">
+  <img src="./assets/output/YT-preview.png" width="500">
+  </a>
+<p>
+
+<div align="center">
+    <audio src="./assets/output/Hello-World.mp3" controls title="Podcast"></audio>
+</div>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -26,15 +30,16 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Sound Forge](https://www.magix.com/br/musica/sound-forge/)
 - [PhotoScape](https://photoscape.softonic.com.br/)
+- [YouTube](https://www.youtube.com/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt. ([clique aqui para ver o prompt](./assets/prompts/chatgpt.md))
-- Audio gerado pela ElevenLabs para a introdução.
+- Titulo e roteiro gerado via chatgpt. ([clique aqui para ver o prompt](./assets/prompts/chatgpt.md))
+- Audio para a introdução gerado pela ElevenLabs.
 - Audio do conteúdo gravado por mim no Sound Forge.
 - Imagens obtidas no Google e editadas no PhotoScape.
 - Capcut para adicionar sons de fundo, efeitos e imagens do video.
-- Vídeo pubicado no YouTube. ([clique aqui para asssitir](https://www.youtube.com))
+- Vídeo pubicado no YouTube. ([clique aqui para asssitir](https://www.youtube.com/watch?v=69jCm9sb3Aw))
 
 
 ## 👨‍💻 Expert
